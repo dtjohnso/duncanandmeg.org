@@ -1,12 +1,10 @@
 ---
 layout: default
-img: ipad.png
+img: duncan.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Duncan Johnson
 description: |
-  <p class="lead">A special thanks to <a target="_blank"
-  href="http://join.deathtothestockphoto.com/">Death to the Stock
-  Photo</a> for providing the photographs that you see in this template.
-  Visit their website to become a member!</p>
+  <p class="lead">Duncan writes (once-in-a-while) at <a target="_blank"
+  href="http://duncanjohnson.ca/">DuncanJohnson.ca</a>. Drop by to see what he's been up to!</p>
 
 ---
