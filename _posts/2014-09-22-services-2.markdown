@@ -2,9 +2,9 @@
 layout: default
 img: meg.jpg
 category: Services
-title: Meg Johnson
+title: I'm Meg Johnson
 description: |
-  <p class="lead">Meg teaches private violin lessons. You can find out more at <a
+  <p class="lead">I teach private violin lessons. You can find out more at <a
   target="_blank" href="http://www.joyfulmelody.ca/">A Joyful Melody</a>.</p>
 
 ---

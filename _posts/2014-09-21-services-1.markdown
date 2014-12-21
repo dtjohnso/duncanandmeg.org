@@ -2,9 +2,7 @@
 layout: default
 img: duncan.png
 category: Services
-title: Duncan Johnson
+title: I'm Duncan Johnson
 description: |
-  <p class="lead">Duncan writes (once-in-a-while) at <a target="_blank"
-  href="http://duncanjohnson.ca/">DuncanJohnson.ca</a>. Drop by to see what he's been up to!</p>
-
+  <p class="lead">I teach undergraduate courses on Bible and Church History at Foundation Baptist College, and (once-in-a-while) I write at <a target="_blank" href="http://duncanjohnson.ca/">DuncanJohnson.ca</a>.</p>
 ---
