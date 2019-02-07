@@ -1,8 +1,0 @@
----
-layout: default
-img: duncan.png
-category: Services
-title: I'm Duncan Johnson
-description: |
-  <p class="lead">Once-in-a-while, I write at <a target="_blank" href="http://duncanjohnson.ca/">DuncanJohnson.ca</a>.</p>
----
